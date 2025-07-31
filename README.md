@@ -1,5 +1,3 @@
-# Mobile_Sales_PowerBi_Dashboard
-Power BI dashboard for analyzing mobile sales by model, region, and payment method.
 # Mobile Sales Dashboard - Power BI
 
 This Power BI dashboard analyzes mobile sales data including total sales, quantity, transaction trends, and average prices, with filters for model, brand, time, and payment methods.
